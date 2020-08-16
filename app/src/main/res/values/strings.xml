@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppChonNguoiYeu</string>
+    <string name="app_intro">Đang phân vân ah? Điền thông tin vào danh sách bên dưới mình lựa chọn giúp cho!</string>
+    <string name="age">Tuổi</string>
+    <string name="name">Tên</string>
+    <string name="reason">Lý do: mùa Covid này lỡ cạp đất mà ăn :))</string>
+    <string name="thanks">Cảm ơn, đúng ý mình rồi</string>
+    <string name="again">Chọn lại đứa khác xem</string>
+
+</resources>
